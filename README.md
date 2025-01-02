@@ -1,4 +1,4 @@
-# Stock Market Analysis and Prediction with GOOGL
+# Google Stock Market Analysis and Prediction (GOOGL)
 
 ## Overview
 This project is focused on analyzing the stock market data for Alphabet Inc. (GOOGL), using the `yfinance` library to retrieve historical pricing data. Key analyses include examining stock prices, calculating moving averages, daily returns, volatility, and ultimately, predicting future stock prices using linear regression.
